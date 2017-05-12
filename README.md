@@ -1,6 +1,9 @@
-# ISBE Symposium - Introduction to Reproducible Research in R and R Studio.
+# Citing this work
 
-This tutorial was developed by [Mike Croucher](www.walkingrandomly.com) and Anna Krystalli
+You are free to use this work in your own projects. However, we would appreciate a citation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.61435.svg)](https://doi.org/10.5281/zenodo.61435)
+
+
+# Introduction to Reproducible Research in R and R Studio.
 
 In this session, we are going to get you started with using version control from within RStudio. 
 
@@ -17,4 +20,5 @@ The material is self-paced and includes a worked-example. It is suggested that y
 * [Committing our change](./commit.md) - How to commit a change
 * [Connecting our local repository to github](./github_sync.md) - Backup! Making our code available to the world.
 * [Subsequent updates](./updates.md) - Now we are set up, the workflow is easy.
+* [The example repo](./created_earlier.md) - My version of the repo we've created today
 * [Things we haven't told you](./next_steps.md) - Steps to further learning
